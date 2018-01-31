@@ -1,3 +1,19 @@
+After forking and cloning the assignment, I opened it up into the browser.  I inspected the page in crome and went to the console. The majority of the code ran, but it gave an error at the end.  On the right hand side it showed that the error happened on line 40 of the javascript file.  Looking at the js file around line 40, I noticed that the function call for showGlobals was misspelled.  Because of this, the console thought it was an undefined variable that it couldn't run, hence the error.  I fixed the spelling mistake so the correct function was called, the error went away, and the program ran successfully.    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Dev Tools Example
 =================
 
